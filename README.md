@@ -26,7 +26,7 @@
 
 ## 📈 Statistiques GitHub
 
-![Océane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oceane42&show_icons=true&theme=tokyonight)
+![n4fakerirl's GitHub stats](https://github-readme-stats.vercel.app/api?username=n4fakerirl&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oceane42&layout=compact&theme=tokyonight)
 
 ---
@@ -37,13 +37,6 @@
 - ✉️ *[ocviller@student.42.fr]*
 
 ---
-
-## 📈 GitHub Stats
-
-![n4fakerirl's GitHub stats](https://github-readme-stats.vercel.app/api?username=n4fakerirl&show_icons=true&theme=dracula)
-
----
-
 
 ```
    /\_/\      _____
