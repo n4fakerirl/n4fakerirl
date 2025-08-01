@@ -12,6 +12,11 @@
 - 🖨️ **Ft_printf** – Recréation partielle de la fonction printf en C, en gérant la conversion et l'affichage de formats
 - 🔍 **Get Next Line** – Lecture ligne par ligne d’un fichier avec gestion de la mémoire  
 - 🔐 **Born2beroot** – Premiers pas dans l’administration système  
+
+---
+
+## 🧠 Projets en cours à 42
+
 - ♻️ **Push_swap** – Algorithmes de tri optimisés et gestion de stacks
 
 ---
