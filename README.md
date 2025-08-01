@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👩‍💻 n4fakerirl
 
-<!--
-**n4fakerirl/n4fakerirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en informatique à [42 School](https://42.fr/)  
+💻 Rentrée d'avril 2025
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projets validés à 42
+
+- 🧩 **Piscine Reloaded** – Exercices de révision des fondamentaux appris pendant la piscine 42
+- 🧱 **Libft** – Création d’une bibliothèque personnelle en C 
+- 🖨️ **Ft_printf** – Recréation partielle de la fonction printf en C, en gérant la conversion et l'affichage de formats
+- 🔍 **Get Next Line** – Lecture ligne par ligne d’un fichier avec gestion de la mémoire  
+- 🔐 **Born2beroot** – Premiers pas dans l’administration système  
+- ♻️ **Push_swap** – Algorithmes de tri optimisés et gestion de stacks
+
+---
+
+## 💼 Compétences techniques
+
+- 🔹 Langages : `C` et `Shell`
+- 🔸 Outils : `Vim`, `Git`, `Makefile`
+- 🔹 Méthodes : gestion de la mémoire, algorithmes, debugging
+
+---
+
+## 📈 Statistiques GitHub
+
+![Océane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oceane42&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oceane42&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Me contacter
+
+- 💌 Discord : n4fakerirl
+- ✉️ *[ocviller@student.42.fr]*
+
+---
+
+## 📈 GitHub Stats
+
+![n4fakerirl's GitHub stats](https://github-readme-stats.vercel.app/api?username=n4fakerirl&show_icons=true&theme=dracula)
+
+---
+
+
+```
+   /\_/\      _____
+  ( o.o )    /     |
+   > ^ <     |  [] |
+  /     \    |     |
+ (  ___  )   |     |
+  ||   ||    |_____|
+```
