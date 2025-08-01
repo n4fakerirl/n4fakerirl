@@ -1,6 +1,6 @@
 # 👩‍💻 n4fakerirl
 
-🎓 Étudiante en informatique à [42 School](https://42.fr/)  
+🎓 Étudiante en informatique à [42 Paris](https://42.fr/)  
 💻 Rentrée d'avril 2025
 
 ---
