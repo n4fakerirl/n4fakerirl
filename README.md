@@ -11,13 +11,14 @@
 - 🧱 **Libft** – Création d’une bibliothèque personnelle en C 
 - 🖨️ **Ft_printf** – Recréation partielle de la fonction printf en C, en gérant la conversion et l'affichage de formats
 - 🔍 **Get Next Line** – Lecture ligne par ligne d’un fichier avec gestion de la mémoire  
-- 🔐 **Born2beroot** – Premiers pas dans l’administration système  
+- 🔐 **Born2beroot** – Premiers pas dans l’administration système
+- ♻️ **Push_swap** – Algorithmes de tri optimisés et gestion de stacks
 
 ---
 
 ## 🧠 Projets en cours à 42
 
-- ♻️ **Push_swap** – Algorithmes de tri optimisés et gestion de stacks
+- ♻️ so long
 
 ---
 
