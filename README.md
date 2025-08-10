@@ -19,6 +19,7 @@
 ## 🧠 Projets en cours à 42
 
 - 🎮 **So_long** – Création d’un mini-jeu en 2D avec la bibliothèque MiniLibX, mêlant parsing de maps, gestion d’événements clavier et rendu graphique temps réel
+- ✉️ **Minitalk** –
 
 ---
 
