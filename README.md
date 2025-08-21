@@ -13,14 +13,15 @@
 - 🔍 **Get Next Line** – Lecture ligne par ligne d’un fichier avec gestion de la mémoire  
 - 🔐 **Born2beroot** – Premiers pas dans l’administration système
 - ♻️ **Push_swap** – Algorithmes de tri optimisés et gestion de stacks
+- 🎮 **So_long** – Création d’un mini-jeu en 2D avec la bibliothèque MiniLibX, mêlant parsing de maps, gestion d’événements clavier et rendu graphique temps réel
+- ✉️ **Minitalk** – Communication entre deux programmes via signaux UNIX, bit par bit, avec reconstruction de messages
 
 ---
 
 ## 🧠 Projets en cours à 42
 
-- 🎮 **So_long** – Création d’un mini-jeu en 2D avec la bibliothèque MiniLibX, mêlant parsing de maps, gestion d’événements clavier et rendu graphique temps réel
-- ✉️ **Minitalk** –
-
+- 🍽️ **Philosophers** – Gestion de threads et synchronisation pour résoudre le problème des philosophes mangeurs avec mutex et timing
+- 💻 **Minishell** – Création d’un mini shell en C avec parsing, gestion des commandes internes, redirections et pipes
 ---
 
 ## 💼 Compétences techniques
